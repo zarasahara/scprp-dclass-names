@@ -1,5 +1,5 @@
 -- D-Class numbers for DarkRP / SCP-RP
--- https://github.com/zarasahara/scprp-dclass-names
+-- https://github.com/zarasahara/scprp-dclass-numbers
 -- requires allowrpnames = true
 
 -- put your own D-Class jobs here (TEAM_ names from your jobs.lua, as strings)

@@ -29,7 +29,7 @@ local function genNumber()
 end
 
 local function stripPrefix(name)
-    return string.gsub(name or "", "^D%-%d+%s*", "")
+    return (string.gsub(name or "", "^D%-%d+%s*", ""))
 end
 
 local function applyPrefix(ply)
